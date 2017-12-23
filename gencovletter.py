@@ -76,4 +76,3 @@ if __name__ == "__main__": # checks if code is being run directly: if yes, then 
     for i in glob.glob(u'*.out'):
         os.unlink (i)
 
-
